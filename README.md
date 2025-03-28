@@ -1,12 +1,12 @@
 # ⏳ Instagram Blocker/Redirector Extension
 
-A Chrome extension that helps you stay focused by **redirecting Instagram to [pomofocus.io](https://pomofocus.io)** during your working hours (9AM–12PM).
+A Chrome extension that helps you stay focused by **redirecting Instagram to [pomofocus.io](https://pomofocus.io)** during your working hours (9AM–12AM).
 
 ---
 
 ## 📌 What It Does
 
-Between **9:00 AM and 9:00 PM**, every time you try to open [instagram.com](https://instagram.com), you'll be automatically redirected to [https://pomofocus.io](https://pomofocus.io) — a great online Pomodoro timer.
+Between **9:00 AM and 12:00 AM**, every time you try to open [instagram.com](https://instagram.com), you'll be automatically redirected to [https://pomofocus.io](https://pomofocus.io) — a great online Pomodoro timer.
 
 Outside those hours, Instagram will work normally.
 
