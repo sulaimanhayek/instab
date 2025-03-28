@@ -45,7 +45,7 @@ Done! 🎉
 
 ## 🙌 Credits
 
-Created by [suliahmed.com] — because focus matters.  
+Created by [https://suliahmed.com] — because focus matters.  
 Inspired by digital minimalism and Pomodoro flow 🔥
 
 ---
