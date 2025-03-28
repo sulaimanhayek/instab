@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Instagram Blocker",
+    "version": "1.0",
+    "description": "Blocks Instagram from 9AM to 9PM.",
+    "permissions": ["webRequest", "webRequestBlocking", "tabs"],
+    "host_permissions": ["*://www.instagram.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Instagram Blocker"
+    }
+  }
