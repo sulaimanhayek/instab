@@ -2,7 +2,7 @@ function updateBlockingRule() {
     const now = new Date();
     const hour = now.getHours();
   
-    const shouldBlock = hour >= 9 && hour < 24;
+    const shouldBlock = hour >= 9 && hour < 23;
   
     chrome.declarativeNetRequest.updateEnabledRulesets({
       enableRulesetIds: shouldBlock ? ["ruleset_1"] : [],
